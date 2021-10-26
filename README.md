@@ -1,6 +1,6 @@
 # Bank Marketing Classification Using Deep Learning
 
-## Problem: Will customer subscribe for the next term?
+## Problem: This data set contains records relevant to a direct marketing campaign of a Portuguese banking institution. The classification goal is to predict if a client will subscribe (yes/no) to a term deposit.
 
 ## Results- 86% accuracy
 
