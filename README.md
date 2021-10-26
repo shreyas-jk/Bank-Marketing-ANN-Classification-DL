@@ -2,7 +2,7 @@
 
 ## Problem: Will customer subscribe for the next term?
 
-## Results
+## Results- 86% accuracy
 
 ![Loss](https://github.com/shreyas-jk/Bank-Marketing-ANN-Classification-DL/blob/main/images/1.png)
 ![Accuracy](https://github.com/shreyas-jk/Bank-Marketing-ANN-Classification-DL/blob/main/images/2.png)
